@@ -1,0 +1,17 @@
+node_modules/
+/dist/
+frontend/dist/
+/.env
+/.env.local
+/.env.*
+npm-debug.log*
+ yarn-debug.log*
+ yarn-error.log*
+ .pnp.*
+ .next/
+ .cache/
+ .parcel-cache/
+ .DS_Store
+ .idea/
+ .vscode/
+ coverage/
